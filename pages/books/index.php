@@ -20,7 +20,8 @@
   ];
   ?>
   <div class="app-shell">
-    <aside class="app-sidebar">
+
+  <aside class="app-sidebar">
       <div class="brand">
         <span class="logo-badge">PD</span>
         Perpustakaan Digital
