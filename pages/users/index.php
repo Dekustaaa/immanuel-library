@@ -62,6 +62,7 @@
                 </td>
                 <td>
                   <div class="cell-actions">
+                    <a href="edit.php?id=<?= $user['id'] ?>" class="btn btn-outline btn-sm">Edit</a>
                     <a href="../../actions/users/destroy.php?id=<?= $user['id'] ?>"
                       class="btn btn-danger btn-sm"
                       onclick="return confirm('Yakin ingin menghapus pengguna ini?')">Hapus</a>
